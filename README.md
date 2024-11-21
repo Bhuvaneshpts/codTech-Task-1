@@ -36,3 +36,12 @@ The Objective of the project is to perform Exploratory Data Anlysis on the datas
 **Seaborn
 
 **Jupyter Notebook
+
+
+![image](https://github.com/user-attachments/assets/7b4599f7-82b2-4eb8-a525-1f675fe3efc4)
+
+
+![image](https://github.com/user-attachments/assets/5e71d096-2910-4fd6-9ab9-7738737edc51)
+
+
+![image](https://github.com/user-attachments/assets/42e23042-cb9e-45b4-9c08-2014c4cf5eb9)
