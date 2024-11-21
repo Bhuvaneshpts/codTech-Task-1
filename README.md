@@ -19,13 +19,20 @@ The Objective of the project is to perform Exploratory Data Anlysis on the datas
 
 ## Key Activities
 **Data Cleansing.
+
 **Data Visualization.
+
 **Outliers.
 
 ## Technologies Used
 **Python
+
 **Numpy
+
 **Pandas
+
 **Matplotlib
+
 **Seaborn
+
 **Jupyter Notebook
