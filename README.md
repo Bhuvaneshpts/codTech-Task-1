@@ -1,11 +1,11 @@
-**Name     :** BHUVANESHWARAN MANOKARAN
-**Company  :** CODTECH IT SOLUTIONS
-**Id       :** CT08DS59469
-**Domain   :** DATA ANALYTICS
-**Duration :** Oct to Nov 2024
-**Mentor   :** NEELA SANTHOSH KUMAR
+**Name:** BHUVANESHWARAN MANOKARAN
+**Company:** CODTECH IT SOLUTIONS
+**Id:** CT08DS59469
+**Domain:** DATA ANALYTICS
+**Duration:** Oct to Nov 2024
+**Mentor:** NEELA SANTHOSH KUMAR
 
-## Overview of the project rr
+## Overview of the project 
 
 ## Project : Exploratory Data Analysis (EDA) on Salary Dataset
 
