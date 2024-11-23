@@ -18,24 +18,24 @@
 The Objective of the project is to perform Exploratory Data Anlysis on the dataset containing Salary data. the aim is to discover insights into Salary, trends, correlations and outliers through visualization.
 
 ## Key Activities
-**Data Cleansing.
+Data Cleansing.
 
-**Data Visualization.
+Data Visualization.
 
-**Outliers.
+Outliers.
 
 ## Technologies Used
-**Python
+Python
 
-**Numpy
+Numpy
 
-**Pandas
+Pandas
 
-**Matplotlib
+Matplotlib
 
-**Seaborn
+Seaborn
 
-**Jupyter Notebook
+Jupyter Notebook
 
 
 ![image](https://github.com/user-attachments/assets/7b4599f7-82b2-4eb8-a525-1f675fe3efc4)
